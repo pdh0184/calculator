@@ -6,5 +6,9 @@ class TEST():
     def test2():
         print('Test2, PRINT!')
 
+    def last():
+        print("Last!")
+
 TEST.test1()
 TEST.test2()
+TEST.last()
